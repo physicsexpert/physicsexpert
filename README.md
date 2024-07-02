@@ -1,2 +1,1 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiphysicsexpertanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?physicsexpert=ubrong&show_icons=true&theme=tokyonight)
