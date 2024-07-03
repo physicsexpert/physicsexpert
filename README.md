@@ -2,6 +2,7 @@
 🧑‍🔧Senior majoring in electronic information engineering<br>
 🏫Currently studying as a graduate student in electronic information technology<br>
 🚀Main technical direction: MCU/PCB/Embedded software and hardware development<br>
+![在这里插入图片描述](IMG_20220731_094946.jpg)
 ## My open source homepages🛠️
 Bilibili video personal homepage：https://space.bilibili.com/346179450?spm_id_from=333.1007.0.0<br>
 Oshwhub PCB Open-source hardware personal homepage: https://oshwhub.com/expert<br>
