@@ -1,8 +1,7 @@
 # I am an electronic engineer from China🌏
 🧑‍🔧Senior majoring in electronic information engineering<br>
 🏫Currently studying as a graduate student in electronic information technology<br>
-🚀Main technical direction: MCU/PCB/Embedded software and hardware development<
-br>
+🚀Main technical direction: MCU/PCB/Embedded software and hardware development<br>
 
 <img src="IMG_20220731_094946_mr1659626068301_edit_46034804.jpg" alt="图片描述" width="30%" height="auto">
 
