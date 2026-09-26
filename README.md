@@ -3,8 +3,8 @@
 🏫Currently studying as a graduate student in electronic information technology<br>
 🚀Main technical direction: MCU/PCB/Embedded software and hardware development<br>
 
-<img src="IMG_20220731_094946_mr1659626068301_edit_46034804.jpg" alt="图片描述" width="30%" height="auto">
-<img src="IMG_20260925_210054.jpg" alt="图片描述" width="30%" height="auto">
+<img src="IMG_20220731_094946_mr1659626068301_edit_46034804.jpg" alt="图片描述" width="50%" height="auto">
+<img src="IMG_20260925_210054.jpg" alt="图片描述" width="50%" height="auto">
 
 ## My open source homepages🛠️
 Bilibili video personal homepage：https://space.bilibili.com/346179450?spm_id_from=333.1007.0.0<br>
